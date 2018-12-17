@@ -4,7 +4,7 @@ AppMod is a research project on safety and privacy of smart-city mobile applicat
 
 # Publications
 
-Lingfeng Bao, Tien-Duy B. Le, David Lo. "Mining Sandboxes: Are We There Yet?" 25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER), 2018.
+Lingfeng Bao, Tien-Duy B. Le, David Lo. "Mining Sandboxes: Are We There Yet?" 25th IEEE Internation Conferance on Software Analysis, Evolution and Reengineering (SANER), 2018. [<a href="https://github.com/appmod/Introduction/blob/master/SANER2018.pdf">PDF</a>]
 
 Le, Tien-Duy B., and David Lo. "Deep specification mining." Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2018.
 
