@@ -26,5 +26,5 @@ W3: Log Differencing [5]
 
 W4: Effective User Control
 [<a href="https://github.com/appmod/appmod">Android app for user study</a>]
-[Modification in Android Kernel]
+[Modification of Android kernel]
 [Demo]
