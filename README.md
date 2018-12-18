@@ -25,4 +25,6 @@ W2: Build Better Sandbox [2,3,4]
 W3: Log Differencing [5]
 
 W4: Effective User Control
-[<a href="https://github.com/appmod/appmod">android app for user study</a>]
+[<a href="https://github.com/appmod/appmod">Android app for user study</a>]
+[Modification in Android Kernel]
+[Demo]
