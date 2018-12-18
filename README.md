@@ -16,15 +16,19 @@ AppMod is a research project on safety and privacy of smart-city mobile applicat
 
 
 # Repositories
-W1: Assess State-of-the-Art [1]
+## W1: Assess State-of-the-Art [1]
 
-W2: Build Better Sandbox [2,3,4]
+## W2: Build Better Sandbox [2,3,4]
 [<a href="https://github.com/appmod/DSM">appmod/DSM</a>]
+
 [<a href="https://github.com/appmod/droidmon">appmod/droidmon</a>]
 
-W3: Log Differencing [5]
+## W3: Log Differencing [5]
 
-W4: Effective User Control
+## W4: Effective User Control
+
 [<a href="https://github.com/appmod/appmod">Android app for user study</a>]
+
 [Modification of Android kernel]
+
 [Demo]
